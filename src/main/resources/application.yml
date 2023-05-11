@@ -1,0 +1,4 @@
+s3client:
+  endpoint: http://192.168.1.20:9000
+  access-key: minioadmin
+  secret-key: minioadmin

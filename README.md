@@ -1,0 +1,1 @@
+# Amazon SDK Java 1.x metrics example
